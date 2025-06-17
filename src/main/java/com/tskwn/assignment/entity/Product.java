@@ -1,6 +1,5 @@
 package com.tskwn.assignment.entity;
 
-import com.tskwn.assignment.dto.ProductDto;
 import jakarta.persistence.*;
 import lombok.*;
 
